@@ -43,7 +43,7 @@
   "dependencies": {
     "@slack/types": "^2.20.1",
     "@types/node": ">=18",
-    "@types/retry": "0.12.0",
+    "@types/retry": "0.12.5",
     "axios": "^1.16.0",
     "p-retry": "^4.6.2",
     "retry": "^0.13.1"
