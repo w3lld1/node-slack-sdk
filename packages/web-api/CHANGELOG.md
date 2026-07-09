@@ -1,5 +1,11 @@
 # @slack/web-api
 
+## 7.19.1
+
+### Patch Changes
+
+- bb49d99: fix: apply redact() to API response bodies in debug logs and recurse into nested objects, preventing tokens from leaking into logs when debug logging is enabled
+
 ## 7.19.0
 
 ### Minor Changes
